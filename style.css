@@ -1,0 +1,50 @@
+
+body{
+background-color: #FFF;
+margin: 0%;
+padding: 0%;
+/*background-image:url(https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6408/6408575_sd.jpg);*/
+background-repeat: no-repeat;
+background-size: 45rem;
+
+}
+
+.rounded{
+border-radius: 5rem 5rem !important;
+margin-top: 3rem;
+width: 12rem;
+}
+
+
+.fotos{
+margin-top: 5rem;
+margin-left: 18rem;
+}
+
+.fotos .img-1{
+margin-right: 10rem;
+border-radius: 5rem 5rem;
+}
+
+.fotos .img-2{
+margin-right: 10rem;
+border-radius: 5rem 5rem;
+}
+
+.fotos .img-3{
+border-radius: 5rem 5rem;
+}
+
+header{
+text-align: center;
+margin-top: 30px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+
+}
+
+.footer-name{
+text-align: center;
+padding-top: 7rem;
+font-family: Arial, Helvetica, sans-serif;
+}
